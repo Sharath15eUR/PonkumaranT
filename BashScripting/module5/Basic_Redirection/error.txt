@@ -1,0 +1,1 @@
+./basics_redirection.sh: line 4: ./my_program: No such file or directory
